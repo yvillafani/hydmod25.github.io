@@ -25,8 +25,8 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://hydmod25.github.io"
 
-github:
-  username: HydMod25 # change to your GitHub username
+# github:
+#   username: HydMod25 # change to your GitHub username
 
 # twitter:
 #   username: twitter_username # change to your Twitter username
@@ -36,7 +36,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Leonard Grabow
   email: hydmod25@gfz.de # change to your email address
-  links:
+  #links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your Twitter homepage
     #- https://github.com/username # change to your GitHub homepage
