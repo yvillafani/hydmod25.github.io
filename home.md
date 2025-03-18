@@ -20,14 +20,14 @@ The workshop is an annual event organized by the AG HYDMOD (Deutsche Hydrologisc
 
 <h3 style="text-align: center;">This workshop is hosted by</h3>
 <div style="text-align: center; background-color: transparent; border: none; padding: 0; margin: 0;">
-    <img src="DGHLOGO.png" style="height: 1.3cm; width: auto; display: inline-block; margin-right: 1cm;" />
-    <img src="GFZLOGO.png" style="height: 1cm; width: auto; display: inline-block;" />
+    <img src="DGHLOGO.png" alt="DGH Logo" style="height: 1.3cm; width: auto; display: inline-block; margin-right: 1cm;" />
+    <img src="GFZLOGO.png" alt="GFZ Logo" style="height: 1cm; width: auto; display: inline-block;" />
 </div>
 
 <h3 style="text-align: center;">We would like to thank for their contribution</h3>
 <div style="text-align: center; background-color: transparent; border: none; padding: 0; margin: 0;">
-    <img src="GCILOGO.png" style="height: 1.3cm; width: auto; display: inline-block; margin-right: 1cm;" />
-    <img src="TAUWLOGO.png" style="height: 0.9cm; width: auto; display: inline-block;" />
+    <img src="GCILOGO.png" alt="GCI Logo" style="height: 1.3cm; width: auto; display: inline-block; margin-right: 1cm;" />
+    <img src="TAUWLOGO.png" alt="TAUW Logo" style="height: 0.9cm; width: auto; display: inline-block;" />
     <br style="clear: both;" />
-    <img src="GEOXLOGO.png" style="height: 0.8cm; width: auto; display: inline-block; margin-top: 0.5cm;" />
+    <img src="GEOXLOGO.png" alt="GEOX Logo" style="height: 0.8cm; width: auto; display: inline-block; margin-top: 0.5cm;" />
 </div>
