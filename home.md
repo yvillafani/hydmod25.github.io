@@ -19,9 +19,9 @@ We're excited to offer you a diverse scientific and networking programme. The wo
 The workshop is an annual event organized by the AG HYDMOD (Deutsche Hydrologische Gesellschaft). We are thrilled to host it at the GFZ Helmholtz Centre for Geosciences on the historic Telegrafenberg in Potsdam. Join us for an engaging, interdisciplinary exchange - we look forward to welcoming you!
 
 <h3 style="text-align: center;">This workshop is hosted by</h3>
-<div style="text-align: center; background-color: transparent; border: none; padding: 0; margin: 0;">
-    <img src="DGHLOGO.png" alt="DGH Logo" style="height: 1.3cm; width: auto; display: inline-block; margin-right: 1cm;" />
-    <img src="GFZLOGO.png" alt="GFZ Logo" style="height: 1cm; width: auto; display: inline-block;" />
+<div style="text-align: center; background-color: transparent; border: none; padding: 0; margin: 0; display: inline-block;">
+    <img src="DGHLOGO.png" alt="DGH Logo" style="height: 1.4cm; width: auto; display: inline-block; margin-right: 1cm; vertical-align: middle;" />
+    <img src="GFZLOGO.png" alt="GFZ Logo" style="height: 1cm; width: auto; display: inline-block; vertical-align: middle;" />
 </div>
 
 <h3 style="text-align: center;">We would like to thank for their contribution</h3>
