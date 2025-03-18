@@ -10,6 +10,8 @@ permalink: /
 <h2 style="text-align: center;">Exploring the links between
 Hydrology and Hydrogeology</h2>
 
+<h3 style="text-align: center;">21/07/2025 - 23/07/2025</h3>
+
 
 
 Welcome to the 20th HYDrological MODeling
@@ -41,3 +43,10 @@ to welcoming you!
 
 
 <h3 style="text-align: center;">We would like to thank for their contribution</h3>
+
+
+<div style="text-align: center; background-color: transparent; border: none; padding: 0; margin: 0;">
+    <img src="logos.png" style="width: 50%; height: auto;" />
+</div>
+
+
