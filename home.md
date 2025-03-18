@@ -44,3 +44,9 @@ to welcoming you!
 
 <h3 style="text-align: center;">We would like to thank for their contribution</h3>
 
+
+<div style="text-align: center; background-color: transparent; border: none; padding: 0; margin: 0;">
+    <img src="logos.png"  alt="Who we want to thank!" style="width: 50%; height: auto;" />
+</div>
+
+
