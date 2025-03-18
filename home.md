@@ -46,7 +46,7 @@ to welcoming you!
 
 
 <div style="text-align: center; background-color: transparent; border: none; padding: 0; margin: 0;">
-    <img src="logos.png"  alt="Who we want to thank!" style="width: 50%; height: auto;" />
+    <img src="logos2.png"  alt="Who we want to thank!" style="width: 50%; height: auto;" />
 </div>
 
 
