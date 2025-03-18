@@ -10,4 +10,4 @@ If you have any questions please do not hesitate to write them to [hydmod25.gfz.
 
 For the organisation of the workshop we are a team of four PhD's and one Postdoc: 
 
-Leonard Grabow, Li Han, Tim Schöne, Yamile Villafani, Philipp Bautz
+Philipp Bautz, Li Han, Tim Schöne, Yamile Villafani, Leonard Grabow
